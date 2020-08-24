@@ -1,6 +1,8 @@
 # CSL
 CSLs for Nightfury Virtual
 
+<image src="https://cdn.discordapp.com/attachments/724667394928148511/747558623013634058/a319_StdDef_-_2020-08-24_21.50.04.png" />
+
 ## Instructions
 
 Download and unzip the latest release from [releases/latest](https://github.com/nightfury-va/CSL/releases/latest); then move the `Nightfury` folder into the X-Plane following the instructions on the [xPilot docs](https://xpilot.clowd.io/docs#csl-models).
